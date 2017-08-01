@@ -9,4 +9,4 @@ There are already components out there for both, but I couldnt find a footprint.
 ## How
 * Add to your library directory.
   * mine was: C:\Program Files\KiCad\share\kicad\library
-* Add library to Cvpcb app. Preferences->footprint liobraries-> append with wizard
+* Add library to Cvpcb app. Preferences->footprint libraries-> append with wizard
